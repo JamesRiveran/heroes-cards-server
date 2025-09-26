@@ -4,11 +4,11 @@
   "description": "A simple WebSocket server using the 'ws' library",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "Defold",
   "license": "ISC",
   "dependencies": {
-    "ws": "^8.18.3" 
+    "ws": "^8.18.3"
   }
 }
